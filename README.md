@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <img height="400px" src="https://i.imgur.com/Xg6UZV6.png"/>
 
 Generative art with js!
+
 https://github.com/BirgerMoell/generative-art-web
 
 
