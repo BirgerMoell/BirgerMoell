@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Birger Moëll</h1>
-<img class="img" height="200px" src="https://avatars.githubusercontent.com/u/1704131?v=4"/>
+<div align="center"><img class="img" height="200px" src="https://avatars.githubusercontent.com/u/1704131?v=4"/></div>
 
 
 <h4 align="center">I am a Researcher in Department of Speech Music and Hearing at KTH Royal Institute of Technology!  </h4>
