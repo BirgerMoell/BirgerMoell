@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 <hr>
 <p>
 🔭 I’m currently working on Speech and Language Models <br/> 
-💬 Ask me about: Python, Deep Learning, Machine Learning and Data Science <br/>
+💬 Ask me about: Web development, Python, Deep Learning, Machine Learning and Data Science <br/>
 📫 Reach me or learn about my research at: https://www.kth.se/profile/bmoell <br/>
+🤗 Hugging Face models https://huggingface.co/birgermoell <br/>
 </p>
 
 
