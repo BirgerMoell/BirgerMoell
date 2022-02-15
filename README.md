@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h4 align="center">I am a Researcher in Department of Speech Music and Hearing at KTH Royal Institute of Technology!  </h4>
 <hr>
 <p>
-🔭 I’m currently working on Speech and Language MOdels <br/> 
+🔭 I’m currently working on Speech and Language Models <br/> 
 💬 Ask me about: Python, Deep Learning, Machine Learning and Data Science <br/>
 📫 Reach me or about my research at: https://www.kth.se/profile/bmoell <br/>
 </p>
