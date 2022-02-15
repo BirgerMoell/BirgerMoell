@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 ## Projects
 
 ## TMH Pip Package
-<img height="400px" src="https://imgur.com/uW8svkR.png"/>
+<img height="200px" src="https://imgur.com/uW8svkR.png"/>
+TMH Speech is a library that gives access to open source models for common tasks in speech and language such as transcription, text summarization, phonetisation etc. Pull requests are very welcome. 
 https://github.com/BirgerMoell/tmh
 
 ## Generative-art-web
