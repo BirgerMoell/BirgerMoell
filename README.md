@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center"><img class="img" height="200px" src="https://avatars.githubusercontent.com/u/1704131?v=4"/></div>
 
 
-<h4 align="center">I am a Researcher in Department of Speech Music and Hearing at KTH Royal Institute of Technology!  </h4>
+<h4 align="center">I am a PhD student in Artificial Intelligence at the Department of Speech Music and Hearing at KTH Royal Institute of Technology!  </h4>
 <hr>
 <p>
 🔭 I’m currently working on Speech and Language Models and using Speech and Language to improve the diagnosis of Alzheimers. <br/> 
