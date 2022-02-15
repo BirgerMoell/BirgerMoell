@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p>
 🔭 I’m currently working on Speech and Language Models <br/> 
 💬 Ask me about: Python, Deep Learning, Machine Learning and Data Science <br/>
-📫 Reach me or about my research at: https://www.kth.se/profile/bmoell <br/>
+📫 Reach me or learn about my research at: https://www.kth.se/profile/bmoell <br/>
 </p>
 
 
