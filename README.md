@@ -1,4 +1,14 @@
 
+<style>
+.img {
+    border-radius:50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+</style>
+
+
 <!--
 **BirgerMoell/BirgerMoell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,15 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<style>
-.img{
-    border-radius:50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-</style>
 
 
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Birger Moëll</h1>
