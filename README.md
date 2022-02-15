@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 TMH Speech is a library that gives access to open source models for common tasks in speech and language such as transcription, text summarization, phonetisation etc. Pull requests are very welcome. 
 https://github.com/BirgerMoell/tmh
 
+### Install
+https://pypi.org/project/tmh/
+
 ## Generative-art-web
 <img height="400px" src="https://i.imgur.com/Xg6UZV6.png"/>
 
