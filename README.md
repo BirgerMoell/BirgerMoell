@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" style="border-radius:50%" height="200px" src="https://avatars.githubusercontent.com/u/1704131?v=4"/>
+
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Birger Moëll</h1>
+<img style="border-radius:50%" height="200px" src="https://avatars.githubusercontent.com/u/1704131?v=4"/>
 
 
 
