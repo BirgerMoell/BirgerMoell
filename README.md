@@ -1,3 +1,5 @@
+<img src="./assets/abstract.png" alt="Abstract geometric artwork" width="100%" />
+
 # Birger Moëll
 
 I build AI systems for healthcare, language, and human wellbeing.
@@ -111,4 +113,3 @@ At Uppsala University, I teach and supervise in computational linguistics and la
 - Uppsala University: [staff profile](https://www.uu.se/en/contact-and-organisation/staff?query=N26-41)
 - AI Sweden: [NLU team](https://www.ai.se/sv/ai-labs/sprakteknologier-nlu)
 - Eir Space: [eir.space](https://eir.space/)
-
