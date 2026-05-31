@@ -1,6 +1,6 @@
-<img src="./assets/abstract.png" alt="Abstract geometric artwork" width="100%" />
 
 # Birger Moëll
+<img width="400x" src="./assets/abstract.png" alt="Abstract geometric artwork" width="100%" />
 
 I build AI systems for healthcare, language, and human wellbeing.
 
